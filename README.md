@@ -10,7 +10,7 @@ Skills and Experience
 * JavaScript
 * Css
 * Html
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width"156" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="256" />
 
 - 🔭 I’m currently working on JS Data Types 
