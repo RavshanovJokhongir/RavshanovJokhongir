@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me jakhonravshanov@gmail.com
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john)](https://github.com/john/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=special)](https://github.com/special/github-readme-stats)
 
 <!---
 RavshanovJokhongir/RavshanovJokhongir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
