@@ -6,7 +6,7 @@
 🚀 I'm Ravshanov Jokhongir, a passionate software engineer on a mission to build innovative solutions and push the boundaries of technology.
 💻 With a love for clean code and elegant solutions, I thrive on challenges and enjoy diving deep into complex problems.
 
-##Skills and Experience
+Skills and Experience
 * JavaScript
 * Css
 * Html
