@@ -34,13 +34,42 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 </p>
+<a target="_blank" align="center">
+  <img align="right" top="300"  height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+- 🔭 I’m currently working on JS Data Types
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="256" />
+- 🌱 I’m currently Working on Web design and Development
 
+- 🤝 I’m available for freelancing.
+- 🌱 I’m currently learning JavaScript Data types
 
-- 🔭 I’m currently working on JS Data Types 
-- 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: jakhonravshanov@gmail.com 
+- 💬 Ask me about **HTML & CSS & JavaScript**
 
+- 📫 How to reach me **jakhonravshanov@gmail.com**
+- 📄 Know about my experiences <a href="https://github.com/RavshanovJokhongir/RavshanovJokhongir/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jakhongir-ravshanov-a47653195/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/RavshanovJokhongir">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_john_098">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCMje3KPUa6RHx06DcZza9ug">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>	
+   <br>
+       </div>
+   
+   
+ 
+    
+
+</p>
