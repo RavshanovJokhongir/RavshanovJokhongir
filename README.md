@@ -65,6 +65,8 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCMje3KPUa6RHx06DcZza9ug">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>	
+  		<a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/RavshanovJokhongir">
+				<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height='40' ></a
    <br>
        </div>
    
